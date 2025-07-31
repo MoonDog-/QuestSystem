@@ -1,0 +1,42 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+
+# OS/IDE files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+
+# Compiled files
+*.exe
+*.dll
+*.pdb
+*.lib
+*.app
+*.dSYM
+*.ipa
+
+# Logs
+*.log
+
+# Build files
+*.obj
+*.o
+*.gch
+*.pch
+*.idb
+*.class
+*.psess
+*.vsp
+*.tlog
+
+# Others
+*.tmp
+*.bak
+*.swp
